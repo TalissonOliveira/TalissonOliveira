@@ -11,5 +11,5 @@ My name is **Talisson Oliveira**, I'm 19 years old, I study **Computer science f
 -  📫 How to reach me: **talissonlux@outlook.com**
 
 <p align="left">
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=talissonoliveira&hide=Jupyter%20Notebook&show_icons=true" alt="TalissonOliveira"/>
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=talissonoliveira&hide=Jupyter%20Notebook&show_icons=true&theme=material-palenight&hide_border=true" alt="TalissonOliveira"/>
 </p>
