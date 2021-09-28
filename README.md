@@ -2,7 +2,7 @@
 
   
 
-My name is **Talisson Oliveira**, I'm 19 years old, I study **Computer science for internet** at the Federal Institute of Alagoas **(IFAL)** and I intend to be a FullStack Developer.
+My name is **Talisson Oliveira**, I'm 20 years old, I study **Computer science for internet** at the Federal Institute of Alagoas **(IFAL)** and I intend to be a FullStack Developer.
 
 <img align="right" alt="GIF" width="430px" src="https://i.pinimg.com/originals/e4/26/70/e426702edf874b181aced1e2fa5c6cde.gif" />
 
