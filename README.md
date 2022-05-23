@@ -1,27 +1,10 @@
-<style>
-.green {
-    color: green;
-    font-weight:700;
-    font-size: 30px;
-}
-</style>
-
 # Hi there <img src="https://raw.githubusercontent.com/kaueMarques/kaueMarques/master/hi.gif" width="30px">
+
+  
 
 My name is **Talisson Oliveira**, I'm 20 years old, I study **Computer science for internet** at the Federal Institute of Alagoas **(IFAL)** and I intend to be a FullStack Developer.
 
-<p style="color: red;">Teste</p>
-
-<div align="center">
-	<br>
-	<a href="https://source.unsplash.com/random">
-		<img src="https://i.pinimg.com/originals/e4/26/70/e426702edf874b181aced1e2fa5c6cde.gif" width="800" height="400" alt="Click to see the source">
-	</a>
-	<br>
-</div>
-<div style="display:flex; flex-direction: row; align-items: center; justify-content: center">
-<img style="position: absolute; right: 85px; width: 40px; align-self: center;"  alt="GIF" src="https://source.unsplash.com/random" />
-</div>
+<img align="right" alt="GIF" width="430px" src="https://i.pinimg.com/originals/e4/26/70/e426702edf874b181aced1e2fa5c6cde.gif" />
 
 - :computer: Passionate about web development.
 - :seedling: I'm currently learning:  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="20" height="20"/> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" alt="typescript" width="20" height="20" /> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original.svg" alt="nodejs" width="20" height="20"/> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="20" height="20"/> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nextjs/nextjs-original.svg" alt="nextjs" width="20" height="20"/> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5"  width="20" height="20"/> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-plain-wordmark.svg" alt="css3"  width="20" height="20"/> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/sass/sass-original.svg" alt="sass"  width="20" height="20"/>
