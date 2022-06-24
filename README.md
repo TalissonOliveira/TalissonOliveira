@@ -1,6 +1,4 @@
-# Hi there <img src="https://raw.githubusercontent.com/kaueMarques/kaueMarques/master/hi.gif" width="30px">
-
-  
+# Hi there :wave:
 
 My name is **Talisson Oliveira**, I'm 20 years old, I study **Computer science for internet** at the Federal Institute of Alagoas **(IFAL)** and I intend to be a FullStack Developer.
 
